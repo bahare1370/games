@@ -1,0 +1,16 @@
+html {
+  direction: rtl;
+}
+
+ul {
+  padding-right: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+}

@@ -1,0 +1,13 @@
+.game-card {
+  position: relative;
+}
+
+.rate-text {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.4rem;
+  background: var(--bs-warning);
+  border-radius: 5px;
+  padding: 0.2rem 0.4rem;
+  font-size: 0.8rem;
+}
